@@ -10,7 +10,7 @@ No installation beyond a web browser should be needed to view the webpage. A cod
 
 ## Usage
 
-This webpage is viewable at: https://flynn0087.github.io/Giphy-Weather_Forked/
+This webpage is viewable at: https://ironicminer.github.io/Giphy-Weather/
 Here is an example image of the page: ![Image of webpage](./assets/images/screenshot.PNG)
 ![Contact page](./assets/images/contacthtml.png)
 
@@ -23,14 +23,14 @@ The MIT license was used as this project is meant to demonstrate functionallity 
 https://www.w3schools.com/
 https://stackoverflow.com/
 https://bulma.io/
-Sharon Roy
-Nathan Larson
-Nadirah Jama
-Roxette Banos
-Ben Flynn
 Mailchimp - https://mailchimp.com/
 Giphy - https://giphy.com/
 OpenWeathermap - https://openweathermap.org/api
+Sharon Roy - sziebe@gmail.com
+Nathan Larson - Nathan.larson0000@gmail.com
+Nadirah Jama - nadirahjama@gmail.com
+Roxette Banos - Roxette.banos@gmail.con
+Ben Flynn - flynn0087@gmail.com
 
 ## License
 
